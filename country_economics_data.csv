@@ -36,6 +36,7 @@ Taiwan,158,TW,New Taiwan dollar,Taipei,Chinese,23.5,121,36193,23.4,Asia,Eastern 
 Colombia,170,CO,Colombian peso,Bogota,Spanish,4,-72,1141748,52.97,Americas,South America,"['BRA', 'ECU', 'PAN', 'PER', 'VEN']",419,0.5,9.25,4.9,8.6,-5.8,61.3,-1.8
 Comoros,174,KM,Comorian franc,Moroni,Arabic,-12.16666666,44.25,1862,0.87,Africa,Eastern Africa,,2,,3.08,4.4,3.9,-3.2,28.4,-3.5
 Republic of the Congo,178,CG,Central African CFA franc,Brazzaville,French,-1,15,342000,6.33,Africa,Middle Africa,"['AGO', 'CMR', 'CAF', 'COD', 'GAB']",16,,4.5,5,19.8,2.7,95.4,2.4
+Democratic Republic of the Congo,180,DRC,Congolese Franc,Kinshasa,French,4.00383,21.7587,2345000,109.08,Africa,Middle Africa,"['AGO','BDI','CAF','COG','RWA','SSD','TZA','UGA','ZMB']",82.26,6.5,25,11.3,4.56,-2,21.5,-3.4
 Costa Rica,188,CR,Costa Rican colon,San Jose,Spanish,10,-84,51100,5.16,Americas,Central America,"['NIC', 'PAN']",95,0.2,3.75,-0.61,7.5,-1.9,74.18,-1.4
 Croatia,191,HR,Euro,Zagreb,Croatian,45.16666666,15.5,56594,3.86,Europe,Southeast Europe,"['BIH', 'HUN', 'MNE', 'SRB', 'SVN']",93,0.3,2.15,4.1,4,-2.4,57.7,-1.2
 Cuba,192,CU,Cuban convertible peso,Havana,Spanish,21.5,-80,109884,9.75,Americas,Caribbean,,107,,2.25,14.37,1.5,-11.1,119,-0.5
@@ -172,4 +173,3 @@ Uzbekistan,860,UZ,Uzbekistani sum,Tashkent,Russian,41,64,447400,36.8,Asia,Centra
 Venezuela,862,VE,Venezuelan bolivar soberano,Caracas,Spanish,8,-66,916445,34.09,Americas,South America,"['BRA', 'COL', 'GUY']",112,-23.7,59.23,172,5.5,-3.3,164.3,4.1
 Yemen,887,YE,Yemeni rial,Sana'a,Arabic,15,48,527968,40.58,Asia,Western Asia,"['OMN', 'SAU']",19,,27,0.77,17.1,-5.2,70.9,-5.9
 Zambia,894,ZM,Zambian kwacha,Lusaka,English,-15,30,752612,19.7,Africa,Eastern Africa,"['AGO', 'BWA', 'COD', 'MWI', 'MOZ', 'NAM', 'TZA', 'ZWE']",26,,14.5,13,12,-3.5,69.6,-1
-Democratic Republic of the Congo,900,DRC,Congolese Franc,Kinshasa,French,4.00383,21.7587,2345000,109.08,Africa,Middle Africa,"['AGO','BDI','CAF','COG','RWA','SSD','TZA','UGA','ZMB']",82.26,6.5,25,11.3,4.56,-2,21.5,-3.4
